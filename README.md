@@ -1,1 +1,2 @@
-# jscal
+# JavaScript Calculator
+#FreeCodeCamp
